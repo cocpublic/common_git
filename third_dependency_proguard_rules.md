@@ -43,6 +43,7 @@ github开源项目：
 1. 包名com.umeng.message.lib；
 2. [友盟推送官网](http://mobile.umeng.com/push)；
 3. [混淆规则地址](http://dev.umeng.com/push/android/integration#3_2_8);
+
 ---
 #####友盟应用统计
 1. 包名com.umeng.analytics
