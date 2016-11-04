@@ -15,6 +15,7 @@
 综上，一共有 D(n) =（n-1）*(D(n-1)+D(n-2))
 特殊地，D(1) = 0, D(2) = 1.
 
+###Java实现
 ```java
 public class Main {
     public static void main(String[] args) {
